@@ -3,7 +3,7 @@
 This is a simple To-Do List application built with React and Bootstrap. It allows you to create, manage, and store your tasks locally within your browser.
 ## Demo
 
-[Youtubr](https://www.youtube.com/embed/fq9XeBUzJXA?si=LzkUXP56ucC3RUYB)
+[Youtube](https://www.youtube.com/embed/fq9XeBUzJXA?si=LzkUXP56ucC3RUYB)
 
 ## Feature
 
